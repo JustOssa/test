@@ -14,7 +14,7 @@
     { "id": 3, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 },
     { "id": 4, "username": "owner", "email": "owner@github.g", "name": "John Doe", "avatar": "av.owner", "points": 315 },
     { "id": 5, "username": "admin", "email": "admin@json.git", "name": "Ross Krisp", "avatar": "av.admin", "points": 101 },
-    { "id": 6, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 }
+    { "id": 6, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 },
     { "id": 7, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 }
   ]
 }
