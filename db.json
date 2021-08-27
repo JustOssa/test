@@ -9,12 +9,15 @@
     { "id": 2, "body": "Well, I didn't vote for you. I dunno. Must be a king. Now, look here, my good man. Well, Mercia's a temperate zone! No, no, no! Yes, yes. A bit. But she's got a wart. Ni! Ni! Ni! Ni!", "postId": 1 }
   ],
   "users": [
-    { "id": 1, "username": "owner", "email": "owner@github.g", "name": "John Doe", "avatar": "av.owner", "points": 315 },
-    { "id": 2, "username": "admin", "email": "admin@json.git", "name": "Ross Krisp", "avatar": "av.admin", "points": 102 },
-    { "id": 3, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 },
-    { "id": 4, "username": "owner", "email": "owner@github.g", "name": "John Doe", "avatar": "av.owner", "points": 315 },
-    { "id": 5, "username": "admin", "email": "admin@json.git", "name": "Ross Krisp", "avatar": "av.admin", "points": 101 },
-    { "id": 6, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 },
-    { "id": 7, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "avatar": "av.mkrajewsky", "points": 785 }
+    { "id": 1, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "points": 785 },
+    { "id": 2, "username": "ptreweela1", "email": "ptreweela1@aboutads.info", "name": "Perla Treweela", "points": 275 },
+    { "id": 3, "username": "hwoolfoot2", "email": "hwoolfoot2@wp.com", "name": "Hinda Woolfoot", "points": 331 },
+    { "id": 4, "username": "dstandall3", "email": "dstandall3@sciencedirect.com", "name": "Dorine Standall", "points": 720 },
+    { "id": 5, "username": "aminchindon4", "email": "aminchindon4@amazon.co.jp", "name": "Alyson Minchindon", "points": 676 },
+    { "id": 6, "username": "tdoyland5", "email": "tdoyland5@diigo.com", "name": "Torey Doyland", "points": 287 },
+    { "id": 7, "username": "chabben6", "email": "chabben6@ebay.com", "name": "Cleon Habben", "points": 12 },
+    { "id": 8, "username": "cmurdoch7", "email": "cmurdoch7@smh.com.au", "name": "Clair Murdoch", "points": 588 },
+    { "id": 9, "username": "dthor8", "email": "dthor8@ft.com", "name": "Damiano Thor", "points": 365 },
+    { "id": 10, "username": "afont9", "email": "afont9@mashable.com", "name": "Aimee Font", "points": 780 }
   ]
 }
